@@ -13,5 +13,5 @@ HTML 5: Para la estructura y el contenido de la pagian web.
 CSS: Para el diseño y la presentacion de la pagian web.
 JavaScript: Para la logica de la calculadora y la interaccion con el usuario.
 
-Este proyecto fue creado por alumos del quinto semestre de la carrera de programacion en el plantel CECyTEM plantel Zinacantepec como parte de un proyecto escolar. 
+Este proyecto fue creado por alumos del quinto semestre de la carrera de programacion en CECyTEM plantel Zinacantepec como parte de un proyecto escolar. 
 Agradecemos a la Matra. Maritza por su contribucion al proyecto 
